@@ -4,4 +4,3 @@
 ![](https://api.codiga.io/project/29841/status/svg)
 [![Windows C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/main.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/main.yml)
 [![Unit testing C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/unity.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/unity.yml)
-[![Linux C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/windows_c_cpp.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/windows_c_cpp.yml)
