@@ -5,3 +5,4 @@
 [![Windows C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/main.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/main.yml)
 [![Unit testing C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/unity.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/unity.yml)
 [![Linux C/C++ CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/linux.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/linux.yml)
+[![CI](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/ci.yml/badge.svg)](https://github.com/Jays154/M1_application_food_ordering_system/actions/workflows/ci.yml)
